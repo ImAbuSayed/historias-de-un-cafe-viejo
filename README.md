@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Historias de un café viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
+| **Get License** | [Official Music Licensing for Historias de un café viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cfa76bebd5d3682f4d73f6cf360ef55ed2c472225f617b8dcd4b6659da397641` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

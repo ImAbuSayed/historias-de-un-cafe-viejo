@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Historias de un café viejo
+
+This log tracks the cryptographic history and versioning for the song **Historias de un café viejo** (historias-de-un-cafe-viejo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:20:54.591460 | `v1` | `cfa76bebd5d3682f4d73f6cf360ef55ed2c472225f617b8dcd4b6659da397641` | `c75a2add84b62820706d3b12bf90fd51327f5bd3a15da16c252b4be0961a96ea` | `2026-06-14_historias-de-un-cafe-viejo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
