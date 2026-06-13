@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Historias de un café viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
+| **Get License** | [Commercial Licensing for Historias de un café viejo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/historias-de-un-cafe-viejo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> En el rincón de ese café viejo te vi llegar,
+> Una mirada tuya y no me pude escapar.
+> I want your body now, no lo puedo esconder,
+> Esta noche es nuestra, baby, vamos a perder.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
